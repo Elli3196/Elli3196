@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Elli3196
-- 👀 I’m interested in Geography
-- 🌱 I’m currently learning how to use depthmapX 
+- 👀 I’m interested in Geography and Data Analysis
 
 <!---
 Elli3196/Elli3196 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
